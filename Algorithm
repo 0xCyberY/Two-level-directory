@@ -1,0 +1,8 @@
+Step 1. Start the program.
+Step 2. Create a structure for directory and obtain directory_name and file_name through char data type and file_counter through int data type.
+Step 3. Enter the number of directories 
+Step 4. Enter directory name
+Step 5.  Enter the file name and increment file_counter.
+Step 6. Ask user to select among 1. Create file 2. Exit options
+Step 7. If option 1 is chosen and if counter value is less than number of directories, go to step 4.
+Step 8.  If option 2 is chosen, display the directory name and its file inside a loop until file_counter value is reached and then exit the program.
