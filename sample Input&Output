@@ -1,0 +1,27 @@
+Enter the number of directories: class
+
+Enter the name of directory:
+Enter the name of the file A1
+
+Do you want to create another file:1/0?1
+
+Enter the name of the file A2
+
+Do you want to create another file:1/0?0
+
+Enter the name of directory: batch
+
+Enter the name of the file a1
+
+Do you want to create another file:1/0?0
+
+Enter the name of directory: collage
+
+Enter the name of the file lab
+
+Do you want to create another file:1/0?0
+The directory and files are:
+
+class   A1      A2
+batch   a1
+collage lab
